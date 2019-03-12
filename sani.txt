@@ -1,0 +1,9 @@
+If you’re working through this lesson on your own, you can carry on by opening a second terminal window. 
+
+This window will represent your partner, working on another computer. You won’t need to give anyone access on GitHub, 
+
+because both ‘partners’ are you.
+
+The Owner needs to give the Collaborator access. On GitHub, click the settings button on the right, 
+
+then select Collaborators, and enter your partner’s username.
